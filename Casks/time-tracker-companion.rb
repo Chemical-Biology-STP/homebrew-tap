@@ -1,6 +1,6 @@
 cask "time-tracker-companion" do
   version "1.6.2"
-  sha256 "6685ab9bdabf7b6ffcea66006622414c73117f709810ed0f278167ef51fbc7fc"
+  sha256 "0521bf14d9d0210daa5b97f64786701cd524d88babde4e772e8065f14c347342"
 
   url "https://github.com/Chemical-Biology-STP/time_tracker/releases/download/v#{version}/TimeTrackerCompanion.dmg"
   name "Time Tracker Companion"
